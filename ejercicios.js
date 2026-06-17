@@ -22,6 +22,13 @@
     console.log (bigintv)
 
 // 5. Imprime por consola el tipo de todas las variables
+    console.log (typeof numerov)
+    console.log (typeof textov)
+    console.log (typeof booleanov)
+    console.log (typeof undefinedv)
+    console.log (typeof nullv)
+    console.log (typeof symbolv)
+    console.log (typeof bigintv)
 
 // 6. A continuacion, modifica los valores de las variables por otros de mismo tipo
 
